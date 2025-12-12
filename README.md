@@ -16,7 +16,7 @@ Backend Developer specializing in **Python/Flask** APIs and messaging integratio
 - 🌱 Learning FastAPI, advanced Docker, and system design patterns
 - 💡 Passionate about optimizing API performance and clean architecture
 - 🎓 Systems Engineering graduate from UPTC
-- 🌎 From the mountains of Sogamoso to building cloud solutions
+- 🌎 From the mountains of Colombia to building cloud solutions
 
 ## 💻 Tech Stack
 
