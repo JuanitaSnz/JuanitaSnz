@@ -63,19 +63,8 @@ me.say_hi()
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JuanitaSnz&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Juanita's GitHub stats" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanitaSnz&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
-
-## 🏆 Featured Projects
-
-Coming soon! 🚀 Currently working on:
-- 🔹 Flask API boilerplate with JWT authentication
-- 🔹 Redis caching implementation demos
-- 🔹 WhatsApp bot integration examples
 
 ## 📫 Let's Connect!
 
