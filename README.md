@@ -1,5 +1,4 @@
-
-<!--# Hi there, I'm Juanita 👋
+# Hi there, I'm Juanita 👋
 
 <div align="center">
   
@@ -14,10 +13,10 @@
 Backend Developer specializing in **Python/Flask** APIs and messaging integrations. Currently building scalable microservices with Redis, MariaDB, and Twilio at **Grupo Recupera**.
 
 - 🔭 Building AI-powered messaging systems via WhatsApp
-- 🌱 Learning FastAPI, Docker, and system design patterns
+- 🌱 Learning FastAPI, advanced Docker, and system design patterns
 - 💡 Passionate about optimizing API performance and clean architecture
 - 🎓 Systems Engineering graduate from UPTC
-- 🌎 From the mountains of Colombia to building cloud solutions
+- 🌎 From the mountains of Sogamoso to building cloud solutions
 
 ## 💻 Tech Stack
 
@@ -63,31 +62,41 @@ me.say_hi()
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  
-  ![Juanita's GitHub stats](https://github-readme-stats.vercel.app/api?username=JuanitaSnz&show_icons=true&theme=radical&hide_border=true&count_private=true)
-  
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuanitaSnz&layout=compact&theme=radical&hide_border=true)
-  
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JuanitaSnz&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Juanita's GitHub stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanitaSnz&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</p>
+
+## 🏆 Featured Projects
+
+Coming soon! 🚀 Currently working on:
+- 🔹 Flask API boilerplate with JWT authentication
+- 🔹 Redis caching implementation demos
+- 🔹 WhatsApp bot integration examples
 
 ## 📫 Let's Connect!
 
-<div align="center">
-  
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juanita-sanabria-sáenz-23a3852a1)
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:juanitasanabria434@gmail.com)
-  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JuanitaSnz)
-  
-</div>
+<p align="center">
+  <a href="https://www.linkedin.com/in/juanita-sanabria-sáenz-23a3852a1">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:juanitasanabria434@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/JuanitaSnz">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
 
 ---
 
-<div align="center">
-  
-  ![Profile Views](https://komarev.com/ghpvc/?username=JuanitaSnz&color=blueviolet&style=flat-square)
-  
-  ⭐️ From [JuanitaSnz](https://github.com/JuanitaSnz) | 💙 Made with passion from Colombia
-  
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=JuanitaSnz&color=blueviolet&style=flat-square" alt="Profile views" />
+</p>
 
+<p align="center">
+  ⭐️ From <a href="https://github.com/JuanitaSnz">JuanitaSnz</a> | 💙 Made with passion from Colombia
+</p>
